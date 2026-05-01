@@ -1,0 +1,14 @@
+{
+  "name": "julian-pena-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio profesional de Julian Peña - Desarrollador de Software",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["portfolio", "developer", "software"],
+  "author": "Julian Peña"
+}
